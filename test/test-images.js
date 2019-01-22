@@ -38,7 +38,7 @@ experiment('/images/* routes', () => {
   });
 
 
-  test('POST: /image', () => {
+  /* test('POST: /image', () => {
     const options = {
       method: 'POST',
       url: '/image',
@@ -55,9 +55,9 @@ experiment('/images/* routes', () => {
         done();
       });
     });
-  });
+  }); */
 
-  test('GET: /image/{tipo}', () => {
+ /*  test('GET: /image/{tipo}', () => {
     const options = {
       method: 'GET',
       url: '/image/slide',
@@ -71,10 +71,10 @@ experiment('/images/* routes', () => {
         done();
       });
     });
-  });
+  }); */
 
   //test for update user
-  test('PUT: /image', () => {
+ /*  test('PUT: /image', () => {
     const options = {
       method: 'PUT',
       url: '/image',
@@ -94,7 +94,7 @@ experiment('/images/* routes', () => {
         done();
       });
     });
-  });
+  }); */
 
  
 
