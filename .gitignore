@@ -1,0 +1,10 @@
+node_modules/*
+auth/node_modules/*
+.idea/*
+uploads/*
+package-lock.json
+coverage.*
+.DS_Store
+*.pem
+.vs
+.env
