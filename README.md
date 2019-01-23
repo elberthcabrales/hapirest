@@ -65,3 +65,7 @@ const src = [
 ];
 ```
 to run test
+
+
+the cliente is 
+https://github.com/elberthcabrales/nuxtcms
