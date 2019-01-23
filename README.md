@@ -45,4 +45,21 @@ foo@bar:~$ knex migrate:latest
 foo@bar:~$ knex seed:run
 foo@bar:~$ cd ../ #goback
 foo@bar:~$ npm run dev
+Server running at: http://localhost:9000
+```
+Run the unit test
+```console
+foo@bar:~$ npm run test
+```
+if you are development rest api and ganna test
+```console
+foo@bar:~$ npm run dev:test
+```
+the gulp file its watching for 
+```javascript
+const src = [
+  './api',
+  './test',
+  './server.js',
+];
 ```
