@@ -20,7 +20,9 @@ hapi rest for nuxtjs
 
 ```
 sorry! added too in knex.js :'/
-```const knex = require( 'knex' )( {
+```javascript
+//this file is just to hook created event
+const knex = require( 'knex' )( {
 
     client: 'mysql',
     connection: {
@@ -33,6 +35,7 @@ sorry! added too in knex.js :'/
     }
 
 } );
+
 ```
 config with your console
 ```console
