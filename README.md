@@ -39,6 +39,7 @@ const knex = require( 'knex' )( {
 ```
 config with your console
 ```console
+foo@bar:~$  mv .env.example .env #add your token
 foo@bar:~$ npm install
 foo@bar:~$ cd database/
 foo@bar:~$ knex migrate:latest
