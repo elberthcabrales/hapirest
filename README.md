@@ -19,7 +19,7 @@ hapi rest for nuxtjs
 };
 
 ```
-sorry! added too in knex.js :'/
+sorry! i added too in knex.js :'/
 ```javascript
 //this file is just to hook created event
 const knex = require( 'knex' )( {
