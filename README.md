@@ -55,7 +55,7 @@ if you are development rest api and ganna test
 ```console
 foo@bar:~$ npm run dev:test
 ```
-the gulp file its watching for 
+the gulp file it's watching for changes in
 ```javascript
 const src = [
   './api',
