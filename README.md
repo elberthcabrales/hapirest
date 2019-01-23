@@ -19,7 +19,7 @@ hapi rest for nuxtjs
 };
 
 ```
-sorry! added too in knex.js in principal source needs config
+sorry! added too in knex.js :'/
 ```const knex = require( 'knex' )( {
 
     client: 'mysql',
